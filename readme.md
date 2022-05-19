@@ -1,5 +1,5 @@
 # JoseXS
-Desarrollador full-stack
+¡Hola! soy un desarrollador full-stack de Madrid (España). Dedicado a esto del desarrollo desde 2016, he sido autodidacta en cuanto a mi formacion, aunque anteriormente me dedicaba a la rama de sistemas.
 
 
 ## Skills
