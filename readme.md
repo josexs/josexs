@@ -17,65 +17,65 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-658%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-108%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/Desde%20Hola%20Mundo%20he%20escrito-108%20Thousand%20Lineas%20de%20c%C3%B3digo-blue)
 
-**🐱 My GitHub Data** 
+**🐱 Mis datos de GitHub** 
 
-> 🏆 1,298 Contributions in the Year 2022
+> 🏆 1,299 Contribuciones durante el año 2022
  > 
-> 📦 490.0 kB Used in GitHub's Storage 
+> 📦 490.0 kB Almacenamiento de GitHub utilizado 
  > 
-> 💼 Opted to Hire
+> 💼 Abierto a contratación
  > 
-> 📜 6 Public Repositories 
+> 📜 6 Repositorios Públicos 
  > 
-> 🔑 26 Private Repositories  
+> 🔑 26 Repositorios Privados  
  > 
-**I'm an Early 🐤** 
+**Soy diurno 🐤** 
 
 ```text
-🌞 Morning    113 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.84% 
-🌆 Daytime    278 commits    ██████████░░░░░░░░░░░░░░░   41.43% 
-🌃 Evening    235 commits    ████████░░░░░░░░░░░░░░░░░   35.02% 
-🌙 Night      45 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.71%
+🌞 Mañana     113 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.82% 
+🌆 Día        278 commits    ██████████░░░░░░░░░░░░░░░   41.37% 
+🌃 Tarde      236 commits    ████████░░░░░░░░░░░░░░░░░   35.12% 
+🌙 Noche      45 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.7%
 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **Soy más productivo los Sábado** 
 
 ```text
-Monday       69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.28% 
-Tuesday      99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.75% 
-Wednesday    111 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.54% 
-Thursday     74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
-Friday       83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.37% 
-Saturday     124 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.48% 
-Sunday       111 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.54%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
+Lunes        69 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
+Martes       100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
+Miércoles    111 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.52% 
+Jueves       74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.01% 
+Viernes      83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.35% 
+Sábado       124 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.45% 
+Domingo      111 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.52%
 
 ```
 
-**I Mostly Code in TypeScript** 
+
+📊 **Esta semana me dediqué a** 
+
+```text
+⌚︎ Zona Horaria: Europe/Madrid
+
+💬 Lenguajes: 
+Sin actividad registrada esta semana
+
+🔥 Editores: 
+Sin actividad registrada esta semana
+
+🐱‍💻 Proyectos: 
+Sin actividad registrada esta semana
+
+💻 Sistema Operativo: 
+Sin actividad registrada esta semana
+
+```
+
+**Programo principalmente en TypeScript** 
 
 ```text
 TypeScript               16 repos            █████████████░░░░░░░░░░░░   51.61% 
@@ -87,8 +87,12 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ```
 
 
+**Cronología**
 
- Last Updated on 23/08/2022 19:19:41 UTC
+![Chart not found](https://raw.githubusercontent.com/josexs/josexs/master/charts/bar_graph.png) 
+
+
+ Last Updated on 23/08/2022 19:32:08 UTC
 <!--END_SECTION:waka-->
 
 
