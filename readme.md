@@ -14,6 +14,13 @@
 ### Bases de datos
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+
+### Mas info
+```
+npx josexs
+```
+
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-658%20hrs%208%20mins-blue)
 
@@ -85,12 +92,6 @@ Python                   4 repos             ███░░░░░░░░�
 Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
 
 ```
-
-
-**Cronología**
-
-![Chart not found](https://raw.githubusercontent.com/josexs/josexs/master/charts/bar_graph.png) 
-
 
  Last Updated on 23/08/2022 19:32:08 UTC
 <!--END_SECTION:waka-->
