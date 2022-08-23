@@ -15,12 +15,14 @@
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-### Mas informacion
+### Varios
 
 ```
 npx josexs
 ```
 
+----
+### Mas informacion
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-658%20hrs%208%20mins-blue)
