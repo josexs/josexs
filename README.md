@@ -106,5 +106,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 ### Publicaciones
 <!-- BLOG-POST-LIST:START -->
+- [Prettier y Husky](https://dev.to/josexs/prettier-y-husky-1od)
+- [Extensiones VS Code 2022](https://dev.to/josexs/extensiones-vs-code-2022-4i7p)
 <!-- BLOG-POST-LIST:END -->
 
