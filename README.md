@@ -21,7 +21,12 @@
 npx josexs
 ```
 
-----
+### Ultimas publicaciones
+<!-- BLOG-POST-LIST:START -->
+- [Prettier y Husky](https://dev.to/josexs/prettier-y-husky-1od)
+- [Extensiones VS Code 2022](https://dev.to/josexs/extensiones-vs-code-2022-4i7p)
+<!-- BLOG-POST-LIST:END -->
+
 ### Mas informacion
 
 <!--START_SECTION:waka-->
@@ -104,9 +109,4 @@ Dart                     1 repo              ░░░░░░░░░░░�
  Last Updated on 24/08/2022 11:59:07 UTC
 <!--END_SECTION:waka-->
 
-### Publicaciones
-<!-- BLOG-POST-LIST:START -->
-- [Prettier y Husky](https://dev.to/josexs/prettier-y-husky-1od)
-- [Extensiones VS Code 2022](https://dev.to/josexs/extensiones-vs-code-2022-4i7p)
-<!-- BLOG-POST-LIST:END -->
 
