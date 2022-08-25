@@ -17,7 +17,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LOC_CHART: "False"
           LOCALE: "es"
-          SHOW_DAYS_OF_WEEK: False
+          SHOW_DAYS_OF_WEEK: "False"
           SYMBOL_VERSION: 3
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
