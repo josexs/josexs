@@ -2,6 +2,13 @@
 ¡Hola! soy un desarrollador full-stack de Madrid (España). Dedicado a esto del desarrollo desde 2016, he sido autodidacta en cuanto a mi formacion, aunque anteriormente me dedicaba a la rama de sistemas.
 
 
+## ¿Que estoy ahciendo ahora?
+A nivel personal me encuentro con el desarrollo de CarsTournaments, una APP hibrida, asi como su parte backend y admin.
+
+Actualmente esta liberado el repositorio del backend, por si quereis investigar, en breves se liberaran tanto el de admin como el de app
+
+Podeis ver mas en [CarsTournaments.com](https://carstournaments.com)
+
 ## Skills
 
 ### Lenguajes
