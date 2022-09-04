@@ -30,6 +30,7 @@ npx josexs
 
 ### Ultimas publicaciones
 <!-- BLOG-POST-LIST:START -->
+- [Mis utilidades en MacOS](https://dev.to/josexs/mis-utilidades-en-macos-4j6h)
 - [Prettier y Husky](https://dev.to/josexs/prettier-y-husky-1od)
 - [Extensiones VS Code 2022](https://dev.to/josexs/extensiones-vs-code-2022-4i7p)
 <!-- BLOG-POST-LIST:END -->
