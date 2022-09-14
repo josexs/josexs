@@ -4,6 +4,13 @@
 
 Puedes ver mi nueva pagina web en [josexs.github.io](https://josexs.github.io/)
 
+## ¿Con que estoy ahora?
+A nivel personal me encuentro con el desarrollo de CarsTournaments, una APP hibrida, asi como su parte backend y admin.
+
+Actualmente esta liberado el repositorio del backend, por si quereis investigar, en breves se liberaran tanto el de admin como el de app
+
+Podeis ver mas en [CarsTournaments.com](https://carstournaments.com)
+
 ## Skills
 
 ### Lenguajes
@@ -24,6 +31,7 @@ Puedes ver mi nueva pagina web en [josexs.github.io](https://josexs.github.io/)
 
 ### Ultimas publicaciones
 <!-- BLOG-POST-LIST:START -->
+- [Mis utilidades en MacOS](https://dev.to/josexs/mis-utilidades-en-macos-4j6h)
 - [Prettier y Husky](https://dev.to/josexs/prettier-y-husky-1od)
 - [Extensiones VS Code 2022](https://dev.to/josexs/extensiones-vs-code-2022-4i7p)
 <!-- BLOG-POST-LIST:END -->
@@ -31,83 +39,36 @@ Puedes ver mi nueva pagina web en [josexs.github.io](https://josexs.github.io/)
 ### Mas informacion
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-562%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-738%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-64-blue)
+![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-10-blue)
 
 **🐱 Mis datos de GitHub** 
 
-> 🏆 1,304 Contribuciones durante el año 2022
+> 🏆 856 Contribuciones durante el año 2022
  > 
-> 📦 490.0 kB Almacenamiento de GitHub utilizado 
+> 📦 465.7 kB Almacenamiento de GitHub utilizado 
  > 
 > 💼 Abierto a contratación
  > 
-> 📜 6 Repositorios Públicos 
+> 📜 7 Repositorios Públicos 
  > 
-> 🔑 25 Repositorios Privados  
+> 🔑 23 Repositorios Privados  
  > 
-**Soy diurno 🐤** 
-
-```text
-🌞 Mañana     116 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.19% 
-🌆 Día        280 commits    ██████████░░░░░░░░░░░░░░░   41.48% 
-🌃 Tarde      234 commits    ████████░░░░░░░░░░░░░░░░░   34.67% 
-🌙 Noche      45 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-
-```
-📅 **Soy más productivo los Sábado** 
-
-```text
-Lunes        68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.07% 
-Martes       99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.67% 
-Miércoles    115 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.04% 
-Jueves       74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.96% 
-Viernes      84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
-Sábado       124 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
-Domingo      111 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.44%
-
-```
-
-
-📊 **Esta semana me dediqué a** 
-
-```text
-⌚︎ Zona Horaria: Europe/Madrid
-
-💬 Lenguajes: 
-YAML                     17 mins             ████████████░░░░░░░░░░░░░   50.42% 
-Bash                     14 mins             ██████████░░░░░░░░░░░░░░░   41.62% 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.12% 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   3.84%
-
-🔥 Editores: 
-VS Code                  33 mins             █████████████████████████   100.0%
-
-🐱‍💻 Proyectos: 
-carsTournaments-app      16 mins             ████████████░░░░░░░░░░░░░   49.69% 
-carsTournaments-backend  15 mins             ███████████░░░░░░░░░░░░░░   44.73% 
-josexs                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   5.58%
-
-💻 Sistema Operativo: 
-Mac                      33 mins             █████████████████████████   100.0%
-
-```
-
 **Programo principalmente en TypeScript** 
 
 ```text
-TypeScript               16 repos            █████████████░░░░░░░░░░░░   53.33% 
-JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Shell                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
+TypeScript               13 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   46.43% 
+JavaScript               5 repos             ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.86% 
+Shell                    4 repos             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.29% 
+Python                   3 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.71% 
+Dart                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   3.57%
 
 ```
 
 
 
- Last Updated on 24/08/2022 11:59:07 UTC
+ Last Updated on 14/09/2022 00:59:11 UTC
 <!--END_SECTION:waka-->
 
 

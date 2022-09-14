@@ -17,8 +17,10 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LOC_CHART: "False"
           LOCALE: "es"
-          SHOW_DAYS_OF_WEEK: False
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
           SYMBOL_VERSION: 3
+          SHOW_TIMEZONE: "False"
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
