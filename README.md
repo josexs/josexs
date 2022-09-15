@@ -39,7 +39,7 @@ Podeis ver mas en [CarsTournaments.com](https://carstournaments.com)
 ### Mas informacion
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-738%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-742%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-10-blue)
 
@@ -47,7 +47,7 @@ Podeis ver mas en [CarsTournaments.com](https://carstournaments.com)
 
 > 🏆 856 Contribuciones durante el año 2022
  > 
-> 📦 465.7 kB Almacenamiento de GitHub utilizado 
+> 📦 465.9 kB Almacenamiento de GitHub utilizado 
  > 
 > 💼 Abierto a contratación
  > 
@@ -68,7 +68,7 @@ Dart                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 14/09/2022 00:59:11 UTC
+ Last Updated on 15/09/2022 01:03:26 UTC
 <!--END_SECTION:waka-->
 
 
