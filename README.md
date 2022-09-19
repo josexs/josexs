@@ -39,21 +39,21 @@ Podeis ver mas en [CarsTournaments.com](https://carstournaments.com)
 ### Mas informacion
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-749%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-752%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-10-blue)
+![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-9-blue)
 
 **🐱 Mis datos de GitHub** 
 
 > 🏆 860 Contribuciones durante el año 2022
  > 
-> 📦 465.9 kB Almacenamiento de GitHub utilizado 
+> 📦 464.8 kB Almacenamiento de GitHub utilizado 
  > 
 > 💼 Abierto a contratación
  > 
-> 📜 7 Repositorios Públicos 
+> 📜 8 Repositorios Públicos 
  > 
-> 🔑 23 Repositorios Privados  
+> 🔑 22 Repositorios Privados  
  > 
 **Soy diurno 🐤** 
 
@@ -82,15 +82,15 @@ Domingo      130 commits    ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ```text
 💬 Lenguajes: 
-TypeScript               9 hrs 19 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   38.09% 
-Markdown                 4 hrs 15 mins       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.36% 
-Other                    3 hrs 39 mins       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.92% 
-JSON                     1 hr 59 mins        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   8.16% 
-Shell                    1 hr 57 mins        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   7.97%
+TypeScript               10 hrs 4 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   36.29% 
+Markdown                 5 hrs 29 mins       ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.76% 
+Other                    4 hrs 27 mins       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.08% 
+JSON                     2 hrs 5 mins        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   7.54% 
+Shell                    2 hrs 2 mins        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   7.35%
 
 🔥 Editores: 
-VS Code                  19 hrs 32 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜   79.74% 
-Zsh                      4 hrs 57 mins       ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.26%
+VS Code                  22 hrs              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜   79.26% 
+Zsh                      5 hrs 45 mins       ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.74%
 
 ```
 
@@ -107,7 +107,7 @@ Dart                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 18/09/2022 01:02:44 UTC
+ Last Updated on 19/09/2022 01:00:24 UTC
 <!--END_SECTION:waka-->
 
 
