@@ -28,12 +28,11 @@ Podeis ver mas en [CarsTournaments.com](https://github.com/carstournaments)
 ### Varios
 #### Paquete NodeJS josexs
 
-![npx josexs](images/npx_josexs.gif)
-
+[![npx josexs](images/npx_josexs.gif)](https://www.npmjs.com/package/josexs)
 
 #### Diseño VS Code dark con tonos rojos
 
-![XSTheme](images/xstheme.png)
+[![XSTheme](images/xstheme.png)](https://marketplace.visualstudio.com/items?itemName=JoseXS.xstheme)
 
 ### Ultimas publicaciones
 <!-- BLOG-POST-LIST:START -->
