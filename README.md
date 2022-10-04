@@ -7,9 +7,7 @@ Puedes ver mi nueva pagina web en [josexs.github.io](https://josexs.github.io/)
 ## ¿Con que estoy ahora?
 A nivel personal me encuentro con el desarrollo de CarsTournaments, una APP hibrida, asi como su parte backend y admin.
 
-Actualmente esta liberado el repositorio del backend, por si quereis investigar, en breves se liberaran tanto el de admin como el de app
-
-Podeis ver mas en [CarsTournaments.com](https://github.com/carstournaments)
+Actualmente puedes encontrar el codigo en [Github](https://github.com/carstournaments) asi como participar con nuevas ideas para el proyecto.
 
 ## Skills
 
