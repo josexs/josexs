@@ -9,7 +9,7 @@ A nivel personal me encuentro con el desarrollo de CarsTournaments, una APP hibr
 
 Actualmente esta liberado el repositorio del backend, por si quereis investigar, en breves se liberaran tanto el de admin como el de app
 
-Podeis ver mas en [CarsTournaments.com](https://carstournaments.com)
+Podeis ver mas en [CarsTournaments.com](https://github.com/carstournaments)
 
 ## Skills
 
@@ -26,8 +26,11 @@ Podeis ver mas en [CarsTournaments.com](https://carstournaments.com)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Varios
+Paquete NodeJS josexs
+![npx josexs](images/npx_josexs.gif)
 
-![npx josexs](npx_josexs.gif)
+Diseño VS Code dark con tonos rojos
+![XSTheme](images/xstheme.png)
 
 ### Ultimas publicaciones
 <!-- BLOG-POST-LIST:START -->
@@ -42,7 +45,8 @@ Podeis ver mas en [CarsTournaments.com](https://carstournaments.com)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-823%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-1-blue)
+[![Twitter](https://img.shields.io/twitter/follow/josexssx)](https://twitter.com/josexssx)
+
 
 **🐱 Mis datos de GitHub** 
 
@@ -52,7 +56,7 @@ Podeis ver mas en [CarsTournaments.com](https://carstournaments.com)
  > 
 > 💼 Abierto a contratación
  > 
-> 📜 11 Repositorios Públicos 
+> 📜 11 Repositorios **Públicos** 
  > 
 > 🔑 22 Repositorios Privados  
  > 
