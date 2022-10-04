@@ -40,19 +40,19 @@ Podeis ver mas en [CarsTournaments.com](https://carstournaments.com)
 ### Mas informacion
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-821%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-823%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-1-blue)
 
 **🐱 Mis datos de GitHub** 
 
-> 🏆 865 Contribuciones durante el año 2022
+> 🏆 867 Contribuciones durante el año 2022
  > 
-> 📦 465.3 kB Almacenamiento de GitHub utilizado 
+> 📦 465.5 kB Almacenamiento de GitHub utilizado 
  > 
 > 💼 Abierto a contratación
  > 
-> 📜 9 Repositorios Públicos 
+> 📜 11 Repositorios Públicos 
  > 
 > 🔑 22 Repositorios Privados  
  > 
@@ -99,17 +99,17 @@ Zsh                      4 hrs 11 mins       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
 **Programo principalmente en TypeScript** 
 
 ```text
-TypeScript               13 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   44.83% 
-JavaScript               5 repos             ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.24% 
-Shell                    4 repos             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.79% 
-Python                   4 repos             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.79% 
-Dart                     1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   3.45%
+TypeScript               13 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   43.33% 
+JavaScript               6 repos             ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.0% 
+Shell                    4 repos             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.33% 
+Python                   4 repos             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.33% 
+Dart                     1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   3.33%
 
 ```
 
 
 
- Last Updated on 03/10/2022 01:02:53 UTC
+ Last Updated on 04/10/2022 01:11:00 UTC
 <!--END_SECTION:waka-->
 
 
