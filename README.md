@@ -26,11 +26,13 @@ Podeis ver mas en [CarsTournaments.com](https://github.com/carstournaments)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Varios
-Paquete NodeJS josexs
+#### Paquete NodeJS josexs
+
 ![npx josexs](images/npx_josexs.gif)
 
 
-Diseño VS Code dark con tonos rojos
+#### Diseño VS Code dark con tonos rojos
+
 ![XSTheme](images/xstheme.png)
 
 ### Ultimas publicaciones
