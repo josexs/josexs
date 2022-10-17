@@ -43,7 +43,7 @@ Actualmente puedes encontrar el codigo en [Github](https://github.com/carstourna
 ### Mas informacion
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-839%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-842%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-5-blue)
 
@@ -107,7 +107,7 @@ Dart                     1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 16/10/2022 01:11:03 UTC
+ Last Updated on 17/10/2022 01:13:57 UTC
 <!--END_SECTION:waka-->
 
 
