@@ -43,7 +43,7 @@ Actualmente puedes encontrar el codigo en [Github](https://github.com/carstourna
 ### Mas informacion
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-856%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-858%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-0-blue)
 
@@ -51,7 +51,7 @@ Actualmente puedes encontrar el codigo en [Github](https://github.com/carstourna
 
 > 🏆 956 Contribuciones durante el año 2022
  > 
-> 📦 472.8 kB Almacenamiento de GitHub utilizado 
+> 📦 472.7 kB Almacenamiento de GitHub utilizado 
  > 
 > 💼 Abierto a contratación
  > 
@@ -107,7 +107,7 @@ Dart                     1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 25/10/2022 01:09:25 UTC
+ Last Updated on 26/10/2022 00:59:11 UTC
 <!--END_SECTION:waka-->
 
 
