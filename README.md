@@ -43,7 +43,7 @@ Actualmente puedes encontrar el codigo en [Github](https://github.com/carstourna
 ### Mas informacion
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-858%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-859%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-0-blue)
 
@@ -86,11 +86,11 @@ Domingo      118 commits    ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ```text
 💬 Lenguajes: 
-Other                    3 hrs 52 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   54.48% 
-Shell                    3 hrs 14 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   45.52%
+Other                    3 hrs 17 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜   69.19% 
+Shell                    1 hr 27 mins        ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   30.81%
 
 🔥 Editores: 
-Zsh                      7 hrs 6 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
+Zsh                      4 hrs 44 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.0%
 
 ```
 
@@ -107,7 +107,7 @@ Dart                     1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 29/10/2022 00:53:09 UTC
+ Last Updated on 30/10/2022 01:04:21 UTC
 <!--END_SECTION:waka-->
 
 
