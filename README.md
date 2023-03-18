@@ -43,7 +43,7 @@ Actualmente puedes encontrar el codigo en [Github](https://github.com/carstourna
 ### Mas informacion
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C630%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C639%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-0-blue)
 
@@ -51,7 +51,7 @@ Actualmente puedes encontrar el codigo en [Github](https://github.com/carstourna
 
 > 📦 473.1 kB Almacenamiento de GitHub utilizado 
  > 
-> 🏆 651 Contribuciones durante el año 2023
+> 🏆 655 Contribuciones durante el año 2023
  > 
 > 💼 Abierto a contratación
  > 
@@ -84,15 +84,15 @@ Domingo                  0 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ```text
 💬 Lenguajes: 
-TypeScript               17 hrs 47 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   44.80 % 
-HTML                     6 hrs 54 mins       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.39 % 
-Other                    6 hrs 26 mins       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.22 % 
-Python                   2 hrs 39 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.68 % 
-Shell                    2 hrs 35 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.52 % 
+TypeScript               17 hrs 44 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   38.13 % 
+Other                    8 hrs 56 mins       ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.21 % 
+HTML                     7 hrs 6 mins        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.27 % 
+Python                   6 hrs 2 mins        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.97 % 
+Shell                    2 hrs 49 mins       ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.06 % 
 
 🔥 Editores: 
-VS Code                  32 hrs 10 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜   80.96 % 
-Zsh                      7 hrs 33 mins       ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.04 % 
+VS Code                  36 hrs 1 min        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜   77.41 % 
+Zsh                      10 hrs 30 mins      ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   22.59 % 
 ```
 
 **Programo principalmente en TypeScript** 
@@ -108,7 +108,7 @@ TeX                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 17/03/2023 00:43:59 UTC
+ Last Updated on 18/03/2023 00:43:33 UTC
 <!--END_SECTION:waka-->
 
 
