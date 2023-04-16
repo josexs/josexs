@@ -84,11 +84,10 @@ Domingo                  1491 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 ```text
 💬 Lenguajes: 
-Other                    5 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   59.97 % 
-Python                   3 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   40.03 % 
+Sin actividad registrada esta semana
 
 🔥 Editores: 
-VS Code                  9 mins              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+Sin actividad registrada esta semana
 ```
 
 **Programo principalmente en TypeScript** 
@@ -104,7 +103,7 @@ TeX                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 15/04/2023 00:46:00 UTC
+ Last Updated on 16/04/2023 00:44:31 UTC
 <!--END_SECTION:waka-->
 
 
