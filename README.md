@@ -45,7 +45,7 @@ Actualmente puedes encontrar el codigo en [Github](https://github.com/carstourna
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C759%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-3-blue)
+![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-1-blue)
 
 **🐱 Mis datos de GitHub** 
 
@@ -62,7 +62,7 @@ Actualmente puedes encontrar el codigo en [Github](https://github.com/carstourna
 **Soy nocturno 🦉** 
 
 ```text
-🌞 Mañana                 1530 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.31 % 
+🌞 Mañana                 1531 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.32 % 
 🌆 Día                    3745 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   35.02 % 
 🌃 Tarde                  4031 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   37.69 % 
 🌙 Noche                  1388 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.98 % 
@@ -70,9 +70,9 @@ Actualmente puedes encontrar el codigo en [Github](https://github.com/carstourna
 📅 **Soy más productivo los Sábado** 
 
 ```text
-Lunes                    1544 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.44 % 
+Lunes                    1545 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.45 % 
 Martes                   1200 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.22 % 
-Miércoles                1794 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.78 % 
+Miércoles                1794 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.77 % 
 Jueves                   1257 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.75 % 
 Viernes                  1478 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.82 % 
 Sábado                   1800 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.83 % 
@@ -103,7 +103,7 @@ TeX                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 01/05/2023 00:46:37 UTC
+ Last Updated on 02/05/2023 00:43:51 UTC
 <!--END_SECTION:waka-->
 
 
