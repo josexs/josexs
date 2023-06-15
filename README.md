@@ -5,9 +5,7 @@
 Puedes ver mi nueva pagina web en [josexs.github.io](https://josexs.github.io/)
 
 ## ¿Con que estoy ahora?
-A nivel personal me encuentro con el desarrollo de CarsTournaments, una APP hibrida, asi como su parte backend y admin.
-
-Actualmente puedes encontrar el codigo en [Github](https://github.com/carstournaments) asi como participar con nuevas ideas para el proyecto.
+A nivel personal me encuentro con el desarrollo de **XSMusic**, un proyecto que consta de 3 aplicaciones (API, APP, ADMIN). El frontal desarrollado en Angular y el backend con Python (FastApi)
 
 ## Skills
 
