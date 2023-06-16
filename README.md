@@ -43,13 +43,13 @@ A nivel personal me encuentro con el desarrollo de **XSMusic**, un proyecto que 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C759%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-0-blue)
+![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-4-blue)
 
 **🐱 Mis datos de GitHub** 
 
 > 📦 478.4 kB Almacenamiento de GitHub utilizado 
  > 
-> 🏆 610 Contribuciones durante el año 2023
+> 🏆 611 Contribuciones durante el año 2023
  > 
 > 💼 Abierto a contratación
  > 
@@ -60,7 +60,7 @@ A nivel personal me encuentro con el desarrollo de **XSMusic**, un proyecto que 
 **Soy diurno 🐤** 
 
 ```text
-🌞 Mañana                 1072 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.43 % 
+🌞 Mañana                 1073 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.44 % 
 🌆 Día                    2487 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   40.43 % 
 🌃 Tarde                  2129 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   34.61 % 
 🌙 Noche                  463 commits         ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.53 % 
@@ -70,8 +70,8 @@ A nivel personal me encuentro con el desarrollo de **XSMusic**, un proyecto que 
 ```text
 Lunes                    764 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.42 % 
 Martes                   911 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.81 % 
-Miércoles                1083 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.61 % 
-Jueves                   542 commits         ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.81 % 
+Miércoles                1083 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.60 % 
+Jueves                   543 commits         ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.83 % 
 Viernes                  822 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.36 % 
 Sábado                   956 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.54 % 
 Domingo                  1073 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.44 % 
@@ -101,7 +101,7 @@ TeX                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 15/06/2023 00:48:41 UTC
+ Last Updated on 16/06/2023 00:49:02 UTC
 <!--END_SECTION:waka-->
 
 
