@@ -1,6 +1,6 @@
 # JoseXS
 
-¡Hola! soy un desarrollador full-stack de Madrid (España). Dedicado a esto del desarrollo desde 2016, he sido autodidacta en cuanto a mi formacion, aunque anteriormente me dedicaba a la rama de sistemas.
+¡Hola! soy un desarrollador full-stack de Madrid (España). Dedicado al desarrollo desde 2016, he sido autodidacta en cuanto a mi formacion, aunque anteriormente me dedicaba a la rama de sistemas.
 
 Puedes ver mi nueva pagina web en [josexs.github.io](https://josexs.github.io/)
 
