@@ -41,8 +41,6 @@ A nivel personal me encuentro con el desarrollo de **XSMusic**, un proyecto que 
 ### Mas informacion
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C759%20hrs%2016%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-0-blue)
 
 **🐱 Mis datos de GitHub** 
@@ -101,7 +99,7 @@ TeX                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 03/12/2023 00:43:16 UTC
+ Last Updated on 04/12/2023 00:41:32 UTC
 <!--END_SECTION:waka-->
 
 
