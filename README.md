@@ -41,6 +41,8 @@ A nivel personal me encuentro con el desarrollo de **XSMusic**, un proyecto que 
 ### Mas informacion
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C759%20hrs%2016%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-0-blue)
 
 **🐱 Mis datos de GitHub** 
@@ -53,6 +55,37 @@ A nivel personal me encuentro con el desarrollo de **XSMusic**, un proyecto que 
  > 
 > 🔑 24 Repositorios Privados 
  > 
+**Soy diurno 🐤** 
+
+```text
+🌞 Mañana                 968 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.34 % 
+🌆 Día                    2343 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   39.54 % 
+🌃 Tarde                  2065 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   34.85 % 
+🌙 Noche                  549 commits         ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.27 % 
+```
+📅 **Soy más productivo los Domingo** 
+
+```text
+Lunes                    696 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.75 % 
+Martes                   829 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.99 % 
+Miércoles                774 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.06 % 
+Jueves                   706 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.92 % 
+Viernes                  767 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.95 % 
+Sábado                   1037 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.50 % 
+Domingo                  1116 commits        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.84 % 
+```
+
+
+📊 **Esta semana me dediqué a** 
+
+```text
+💬 Lenguajes: 
+Sin actividad registrada esta semana
+
+🔥 Editores: 
+Sin actividad registrada esta semana
+```
+
 **Programo principalmente en TypeScript** 
 
 ```text
@@ -66,7 +99,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 12/04/2024 00:07:45 UTC
+ Last Updated on 13/04/2024 00:07:18 UTC
 <!--END_SECTION:waka-->
 
 
