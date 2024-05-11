@@ -49,8 +49,6 @@ A nivel personal me encuentro con el desarrollo de **XSMusic**, un proyecto que 
 
 > 📦 479.0 kB Almacenamiento de GitHub utilizado 
  > 
-> 🏆 300 Contribuciones durante el año 2024
- > 
 > 💼 Abierto a contratación
  > 
 > 📜 14 Repositorios Públicos 
@@ -101,7 +99,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 10/05/2024 00:08:17 UTC
+ Last Updated on 11/05/2024 00:08:10 UTC
 <!--END_SECTION:waka-->
 
 
