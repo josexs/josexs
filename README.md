@@ -41,15 +41,13 @@ A nivel personal me encuentro con el desarrollo de **XSMusic**, un proyecto que 
 ### Mas informacion
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C854%20hrs%2032%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-0-blue)
 
 **🐱 Mis datos de GitHub** 
 
-> 📦 485.9 kB Almacenamiento de GitHub utilizado 
+> 📦 486.2 kB Almacenamiento de GitHub utilizado 
  > 
-> 🏆 1,085 Contribuciones durante el año 2025
+> 🏆 1,095 Contribuciones durante el año 2025
  > 
 > 💼 Abierto a contratación
  > 
@@ -57,37 +55,6 @@ A nivel personal me encuentro con el desarrollo de **XSMusic**, un proyecto que 
  > 
 > 🔑 28 Repositorios Privados 
  > 
-**Soy diurno 🐤** 
-
-```text
-🌞 Mañana                 2029 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.46 % 
-🌆 Día                    5656 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   37.53 % 
-🌃 Tarde                  5940 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   39.41 % 
-🌙 Noche                  1447 commits        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.60 % 
-```
-📅 **Soy más productivo los Sábado** 
-
-```text
-Lunes                    1884 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.50 % 
-Martes                   2184 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.49 % 
-Miércoles                1862 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.35 % 
-Jueves                   1870 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.41 % 
-Viernes                  2030 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.47 % 
-Sábado                   2746 commits        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.22 % 
-Domingo                  2496 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.56 % 
-```
-
-
-📊 **Esta semana me dediqué a** 
-
-```text
-💬 Lenguajes: 
-Sin actividad registrada esta semana
-
-🔥 Editores: 
-Sin actividad registrada esta semana
-```
-
 **Programo principalmente en TypeScript** 
 
 ```text
@@ -101,7 +68,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 30/07/2025 00:12:53 UTC
+ Last Updated on 31/07/2025 00:12:27 UTC
 <!--END_SECTION:waka-->
 
 
