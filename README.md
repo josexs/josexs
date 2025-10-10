@@ -43,7 +43,7 @@ A nivel personal me encuentro con el desarrollo de **XSMusic**, un proyecto que 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C854%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-2-blue)
+![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-0-blue)
 
 **🐱 Mis datos de GitHub** 
 
@@ -101,7 +101,7 @@ CSS                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 09/10/2025 00:11:56 UTC
+ Last Updated on 10/10/2025 00:11:25 UTC
 <!--END_SECTION:waka-->
 
 
