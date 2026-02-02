@@ -41,15 +41,13 @@ A nivel personal me encuentro con el desarrollo de **XSMusic**, un proyecto que 
 ### Mas informacion
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C854%20hrs%2043%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-0-blue?style=flat)
 
 **🐱 Mis datos de GitHub** 
 
 > 📦 176.2 kB Almacenamiento de GitHub utilizado 
  > 
-> 🏆 756 Contribuciones durante el año 2026
+> 🏆 762 Contribuciones durante el año 2026
  > 
 > 💼 Abierto a contratación
  > 
@@ -57,37 +55,6 @@ A nivel personal me encuentro con el desarrollo de **XSMusic**, un proyecto que 
  > 
 > 🔑 15 Repositorios Privados 
  > 
-**Soy nocturno 🦉** 
-
-```text
-🌞 Mañana                 1432 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.34 % 
-🌆 Día                    4184 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   36.05 % 
-🌃 Tarde                  4618 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   39.79 % 
-🌙 Noche                  1373 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.83 % 
-```
-📅 **Soy más productivo los Viernes** 
-
-```text
-Lunes                    1926 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.59 % 
-Martes                   1620 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.96 % 
-Miércoles                1200 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.34 % 
-Jueves                   1195 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.30 % 
-Viernes                  1947 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.77 % 
-Sábado                   1947 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.77 % 
-Domingo                  1772 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.27 % 
-```
-
-
-📊 **Esta semana me dediqué a** 
-
-```text
-💬 Lenguajes: 
-Sin actividad registrada esta semana
-
-🔥 Editores: 
-Sin actividad registrada esta semana
-```
-
 **Programo principalmente en TypeScript** 
 
 ```text
@@ -101,7 +68,7 @@ Markdown                 1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 01/02/2026 00:16:10 UTC
+ Last Updated on 02/02/2026 00:15:27 UTC
 <!--END_SECTION:waka-->
 
 
