@@ -47,7 +47,7 @@ A nivel personal me encuentro con el desarrollo de **XSMusic**, un proyecto que 
 
 > 📦 176.6 kB Almacenamiento de GitHub utilizado 
  > 
-> 🏆 1,782 Contribuciones durante el año 2026
+> 🏆 1,784 Contribuciones durante el año 2026
  > 
 > 💼 Abierto a contratación
  > 
@@ -55,37 +55,6 @@ A nivel personal me encuentro con el desarrollo de **XSMusic**, un proyecto que 
  > 
 > 🔑 16 Repositorios Privados 
  > 
-**Soy nocturno 🦉** 
-
-```text
-🌞 Mañana                 2200 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.46 % 
-🌆 Día                    6260 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   35.45 % 
-🌃 Tarde                  7209 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   40.83 % 
-🌙 Noche                  1988 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.26 % 
-```
-📅 **Soy más productivo los Sábado** 
-
-```text
-Lunes                    2827 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.01 % 
-Martes                   2348 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.30 % 
-Miércoles                1834 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.39 % 
-Jueves                   1866 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.57 % 
-Viernes                  3174 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.98 % 
-Sábado                   3176 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.99 % 
-Domingo                  2432 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.77 % 
-```
-
-
-📊 **Esta semana me dediqué a** 
-
-```text
-💬 Lenguajes: 
-Sin actividad registrada esta semana
-
-🔥 Editores: 
-Sin actividad registrada esta semana
-```
-
 **Programo principalmente en TypeScript** 
 
 ```text
@@ -99,7 +68,7 @@ Markdown                 1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 24/07/2026 00:28:41 UTC
+ Last Updated on 25/07/2026 00:31:32 UTC
 <!--END_SECTION:waka-->
 
 
